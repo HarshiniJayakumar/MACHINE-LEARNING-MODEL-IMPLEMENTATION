@@ -22,6 +22,8 @@ From this project, I gained hands-on experience in machine learning. I learned h
 
 OUTPUT
 
+<img width="1920" height="165" alt="Image" src="https://github.com/user-attachments/assets/8d7e2a69-ea73-4b47-933c-be6ec2b79696" />
+
 
 
 
