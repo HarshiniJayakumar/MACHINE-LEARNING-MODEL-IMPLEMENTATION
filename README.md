@@ -20,6 +20,9 @@ The core machine learning part was using the Scikit-learn. I created a text clas
 
 From this project, I gained hands-on experience in machine learning. I learned how to clean data, visualize it, build and evaluate a model, and it accept input from users. I also learned how to make my notebook clean, modular, and presentable enough for internship submissions and GitHub portfolios. Overall, this project helped me gain confidence in working with text data, pipelines, classification tasks, and collaborative tools like jupyter notebook and GitHub. I learned how to use the open datasets and simple models to solve real problems in a practical way.
 
+OUTPUT
+
+
 
 
 
