@@ -1,23 +1,16 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION   
 
+NAME: HARSHINI J
 
+INTERN ID: CT04DG2834
 
+DOMAIN: PYTHON PROGRAMMING
 
+DURATION: 4 WEEKS
 
+MENTOR: NEELA SANTOSH
 
-
-
-
-
-
-
-
-
-
-
-
-
-#DESCRIPTION
+DESCRIPTION
 
 In this project, I worked on building a Spam Message Classifier using Python and Scikit-learn. The entire implementation was done inside a Jupyter Notebook environment. The goal was to create a machine learning model that could classify messages as either spam or ham (not spam) by learning from a real-world dataset. I learned how machine learning works in theory, but how to actually apply it using Python libraries and open datasets. I used a public dataset available on GitHub . I don't need to download or manually upload any files. That made my work reproducible, so others can run my notebook from start to finish without needing anything extra. The dataset was loaded directly using pandas.read_csv() and it had two columns: one for the label (spam or ham) and one for the message content itself.
 
